@@ -1,5 +1,5 @@
 download the folder. 
-CD into search-bar
+CD into folder
 do NPM INSTALL
 do NPM START
 app will be loaded in http://localhost:3000/
