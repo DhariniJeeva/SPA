@@ -1,3 +1,6 @@
+
+Single Page App that allows users to search for a financial institution using an autocomplete style search box
+
 download the folder. 
 CD into folder
 do NPM INSTALL
